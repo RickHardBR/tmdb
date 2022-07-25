@@ -1,6 +1,6 @@
 <h1 id="topo">NWFS - Rodada de cases </h1>
   
-Endereço surge: **[promobit_joy_ricardo.surge.sh](http://promobit_joy_ricardo.surge.sh)**
+Endereço surge: **[promobit-joy-ricardo.surge.sh](http://promobit-joy-ricardo.surge.sh)**
 
   * [Indice](#funciona)
       * [O Desafio](#desafio)
