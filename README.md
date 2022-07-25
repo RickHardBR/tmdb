@@ -271,6 +271,8 @@ Em ambos os casos, assim que nossa app subir, o navegador será automaticamente 
 <p align="center" float="center">
 <img src="https://user-images.githubusercontent.com/89301596/180663133-56817ef0-f3cd-4b11-bf3b-7e68e0939595.png" alt="mobile5" width="300px">
 <img src="https://user-images.githubusercontent.com/89301596/180663166-01047e7f-067e-4eef-9532-3dd21202fbf5.png" alt="mobile6" width="300px">
+  </p>
+  <p align="center" float="center">
 <img src="https://user-images.githubusercontent.com/89301596/180663199-72b70704-f8cb-4946-9b68-1ccbfde5117f.png" alt="mobile7" width="300px">
 <img src="https://user-images.githubusercontent.com/89301596/180663247-72f4dd69-286d-44aa-bae0-c1830bc0e540.png" alt="mobile7" width="300px">
 </p>
