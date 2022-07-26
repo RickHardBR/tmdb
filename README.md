@@ -278,8 +278,10 @@ Em ambos os casos, assim que nossa app subir, o navegador será automaticamente 
 </p>
 <h4 align="right"><a href="#topo">Topo</a></h4>
 
-
-<h2 id="tecs">Tecnologias Usadas</h2>
+</details>
+  
+<details>
+<summary><h2 id="tecs">Tecnologias Usadas</h2></summary>
 
 📌<a href="https://reactjs.org/" target="_blank">React</a>
 
@@ -296,6 +298,9 @@ Em ambos os casos, assim que nossa app subir, o navegador será automaticamente 
 📌<a href="https://styled-components.com/" target="_blank">styled-component</a>
 
 📌<a href="https://www.npmjs.com/package/react-circular-progressbar" target="_blank">react-circular-progressbar</a>
+
+  
+</details>
 
 ***
 
