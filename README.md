@@ -278,8 +278,7 @@ Em ambos os casos, assim que nossa app subir, o navegador será automaticamente 
 </p>
 <h4 align="right"><a href="#topo">Topo</a></h4>
 
-</details>
-  
+Clique: nas ▶️
 <details>
 <summary><h2 id="tecs">Tecnologias Usadas</h2></summary>
 
